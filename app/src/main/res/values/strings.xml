@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sewain - Hackathon 2023</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--Dummy Text-->
+    <string name="dummy_paragraph_text">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula augue commodo imperdiet blandit. Cras lobortis, enim non accumsan condimentum, eros nibh blandit urna, nec pharetra eros sem ac lorem. In luctus orci odio, in rutrum diam fermentum non. Cras lacinia nec sem ac tristique. Mauris ullamcorper suscipit ex in placerat. Sed condimentum feugiat mi id viverra. Phasellus varius lectus a condimentum tempor. Donec vulputate consequat tincidunt. Nulla eu eros id diam accumsan condimentum faucibus sed ipsum. Praesent bibendum eget ligula ac pellentesque. Aliquam auctor lorem eget egestas accumsan. Nullam feugiat consectetur risus, pharetra ultrices augue iaculis sed. Vestibulum vulputate mi sed mauris egestas venenatis. Pellentesque eu elit felis. Etiam malesuada luctus dui vel laoreet.</string>
+
+    <string-array name="order_tab_titles">
+        <item>Riwayat</item>
+        <item>Dalam Proses</item>
+        <item>Permintaan</item>
+    </string-array>
+</resources>
